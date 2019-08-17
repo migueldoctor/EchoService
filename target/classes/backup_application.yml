@@ -1,0 +1,7 @@
+#Application Name
+spring:
+  application:
+    name: echo-service     # This is the name for the remote configuration file
+
+server:
+  port: 8091 #the default port used for zuul service
